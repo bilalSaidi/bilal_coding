@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.90a6e217.chunk.css",
+    "main.js": "/static/js/main.830e4983.chunk.js",
+    "main.js.map": "/static/js/main.830e4983.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.31129c4e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.31129c4e.js.map",
+    "static/js/2.1267abbc.chunk.js": "/static/js/2.1267abbc.chunk.js",
+    "static/js/2.1267abbc.chunk.js.map": "/static/js/2.1267abbc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.90a6e217.chunk.css.map": "/static/css/main.90a6e217.chunk.css.map",
+    "static/js/2.1267abbc.chunk.js.LICENSE.txt": "/static/js/2.1267abbc.chunk.js.LICENSE.txt",
+    "static/media/agency_website.png": "/static/media/agency_website.dbcb4b76.png",
+    "static/media/peronal_photo.jpg": "/static/media/peronal_photo.d184fc6c.jpg",
+    "static/media/to_do_app.png": "/static/media/to_do_app.449fbea5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31129c4e.js",
+    "static/js/2.1267abbc.chunk.js",
+    "static/css/main.90a6e217.chunk.css",
+    "static/js/main.830e4983.chunk.js"
+  ]
+}

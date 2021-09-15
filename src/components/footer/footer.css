@@ -1,0 +1,14 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 21px;
+  font-weight: 300;
+}
+
+.footer i {
+  display: inline-block;
+  color: red;
+  margin: auto 4px;
+  font-size: 20px;
+}

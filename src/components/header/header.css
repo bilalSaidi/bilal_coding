@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+
+.Logo {
+  font-size: 36px;
+  display: flex;
+  font-weight: 800;
+  color: blueviolet;
+}
+
+.Menu {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+}
+.mobile-menu {
+  display: none;
+}
+.menu-burger {
+  font-size: 24px;
+}
+
+@media only screen and (max-width: 848px) {
+  .mobile-menu {
+    display: flex;
+  }
+  .web-menu {
+    display: none;
+  }
+  .Logo {
+    font-size: 24px;
+  }
+}
