@@ -12,10 +12,10 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "npm  start",
-    "build": "npm build",
-    "test": "npm test",
-    "eject": "npm eject"
+    "start": "run-scripts  start",
+    "build": "run-scripts build",
+    "test": "run-scripts test",
+    "eject": "run-scripts eject"
   },
   "eslintConfig": {
     "extends": [
