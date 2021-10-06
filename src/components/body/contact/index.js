@@ -32,8 +32,8 @@ const Contact = () => {
           </div>
         </div>
         <div className="contact_resume">
-          <a href="#">
-            <i class="fas fa-cloud-download-alt"></i> donwload resume
+          <a href="https://bilalbuildcv.netlify.app/" target="_blank">
+            <i class="fas fa-cloud-download-alt"></i> see cv
           </a>
         </div>
       </div>
