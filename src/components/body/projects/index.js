@@ -8,6 +8,46 @@ const Projects = () => {
         {/*  Start Project  */}
         <div className="project">
           <div className="project_details">
+            <div className="project_title">Ecommerce Api</div>
+            <div className="project_demo_code">
+              <a
+                href="https://github.com/bilalSaidi/ecommerce_api"
+                target="_blank"
+              >
+                <i class="fab fa-github-square"></i>github
+              </a>
+            </div>
+            <div className="project_summary">
+              <p>
+                Creating An Api For Ecommerce Website Using Nodejs [Express
+                Framework] And MongoDb Also <br />
+                This Api Was Tested using postman to make sure he is Working
+                Correctly , The Api Conatin Authentication Part With JWT, User ,
+                Order , Cart And Product , for more details visit the github
+                link it's an open source project.
+              </p>
+            </div>
+            <div className="project_tech">
+              <span>NodeJs</span>
+              <span>ExpressJs</span>
+              <span>Mongoose</span>
+              <span>Postman</span>
+            </div>
+          </div>
+          <div className="project_image">
+            <img
+              src={
+                require("../../../assets/projects/agency_website/agency_website.png")
+                  .default
+              }
+              alt="to list react app"
+            />
+          </div>
+        </div>
+        {/*  End Project  */}
+        {/*  Start Project  */}
+        <div className="project">
+          <div className="project_details">
             <div className="project_title">to do list app</div>
             <div className="project_demo_code">
               <a href="https://crudappreact.netlify.app/" target="_blank">
