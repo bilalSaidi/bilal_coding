@@ -37,7 +37,7 @@ const Projects = () => {
           <div className="project_image">
             <img
               src={
-                require("../../../assets/projects/agency_website/agency_website.png")
+                require("../../../assets/projects/ecommerce_api/main.png")
                   .default
               }
               alt="to list react app"
