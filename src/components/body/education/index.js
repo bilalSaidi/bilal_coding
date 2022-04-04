@@ -7,6 +7,16 @@ const Education = () => {
       <div className="education_timeline">
         <div className="master_degree">
           <span className="name_course">
+            Mestrado em Engenharia Informática.
+          </span>
+
+          <p>
+            <span className="duration_course">january 2022- present | </span>
+            University of Trás-os-Montes and Alto Douro
+          </p>
+        </div>
+        <div className="master_degree">
+          <span className="name_course">
             master's degree in computer science engineering.
           </span>
 

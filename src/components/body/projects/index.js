@@ -48,47 +48,6 @@ const Projects = () => {
         {/*  Start Project  */}
         <div className="project">
           <div className="project_details">
-            <div className="project_title">to do list app</div>
-            <div className="project_demo_code">
-              <a href="https://crudappreact.netlify.app/" target="_blank">
-                <i class="fab fa-chrome"></i>demo
-              </a>
-              <a
-                href="https://github.com/bilalSaidi/crudappReact"
-                target="_blank"
-              >
-                <i class="fab fa-github-square"></i>github
-              </a>
-            </div>
-            <div className="project_summary">
-              <p>
-                with this to do list app the user can add his daily activity to
-                organize his day , also he can update any activity he want or
-                even delete it . there option where the user can clear the list
-                after he do all the activity .
-              </p>
-            </div>
-            <div className="project_tech">
-              <span>react</span>
-              <span>bootstrap</span>
-              <span>netlify dypeloyment</span>
-              <span>responsive design</span>
-            </div>
-          </div>
-          <div className="project_image">
-            <img
-              src={
-                require("../../../assets/projects/to_do_list/to_do_app.png")
-                  .default
-              }
-              alt="to list react app"
-            />
-          </div>
-        </div>
-        {/*  End Project  */}
-        {/*  Start Project  */}
-        <div className="project">
-          <div className="project_details">
             <div className="project_title">Agency Website</div>
             <div className="project_demo_code">
               <a href="https://companytemplete.netlify.app/" target="_blank">
