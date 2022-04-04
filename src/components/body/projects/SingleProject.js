@@ -15,7 +15,7 @@ function SingleProject({
         <div className="project_demo_code">
           {demo ? (
             <a href={demo} target="_blank">
-              <i class="fab fa-github-square"></i>demo
+              <i class="fa-brands fa-chrome"></i> demo
             </a>
           ) : null}
 
