@@ -7,10 +7,13 @@ const AboutMe = () => {
         <div className="about_me">
           <p className="about_me_summary">
             hello there 👋, i am <br />{" "}
-            <span className="personal_name">bilal saidi</span> <br />i am a
-            passionate <span>web developer</span> with a strong technical skills{" "}
-            <br /> i work with <span>java script</span> and i want to grow in
-            this direction.
+            <span className="personal_name">bilal saidi</span> <br /> I'm a
+            <span> Computer Science Engineer </span> passionate about designing
+            and building reliable, scalable and maintainable systems. I am
+            interested in a range variety of areas such as{" "}
+            <span> software engineering </span>, <span> web devlopment </span>{" "}
+            and
+            <span> artificial Intelligence </span>.
           </p>
         </div>
         <div className="personal_photo">
