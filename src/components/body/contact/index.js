@@ -33,7 +33,7 @@ const Contact = () => {
         </div>
         <div className="contact_resume">
           <a
-            href="https://drive.google.com/file/d/1HsUuPcILRKeI52rZO59de90avjwz8Xto/view?usp=sharing"
+            href="https://drive.google.com/file/d/1FCmS2xDNNXg-eEfAoxWAp6PjKsx7hvmA/view?usp=sharing"
             target="_blank"
           >
             <i class="fas fa-cloud-download-alt"></i> Download Cv
