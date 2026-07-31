@@ -2,6 +2,7 @@ import React from "react";
 import "./body.css";
 import AboutMe from "./hero/index";
 import Projects from "./projects/index";
+import LinkedPosts from "./linkedPosts/index";
 import Skills from "./skills/index";
 import Education from "./education/index";
 import Contact from "./contact/index";
@@ -13,6 +14,9 @@ const Body = () => {
       </section>
       <section id="projects">
         <Projects />
+      </section>
+      <section id="linked-posts">
+        <LinkedPosts />
       </section>
       <section id="skills">
         <Skills />

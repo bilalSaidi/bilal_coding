@@ -10,34 +10,27 @@ const Skills = () => {
           <span className="const_name"> bilal = </span> <span>&#123;</span>
           <br />
           <div className="programin_tech_tools">
-            <span className="blue_text">Programming languages : </span>
-            [ javascript , nodejs, python ], <br />
-            <span className="blue_text">web technologies : </span>
-            [ html5 , css3 , react , bootstrap , material ui , git/github ,
-            fontawsome , google fonts , flaticon ], <br />
-            <span className="blue_text">data base : </span>
-            [mysql , mongodb , sql server], <br />
-            <span className="blue_text">modeling languages : </span>
-            [ uml ],
-            <br />
+            <span className="blue_text">Testing:</span>
+            [Manual Testing, Regression Testing, Smoke Testing, Sanity Testing, End-to-End Testing, Exploratory Testing], <br />
+            <span className="blue_text">Automation:</span>
+            [Playwright, Cypress], <br />
+            <span className="blue_text">Languages:</span>
+            [JavaScript, TypeScript, SQL], <br />
+            <span className="blue_text">API & tools:</span>
+            [REST API, Postman, Azure DevOps, Jira, Confluence, Allure Reports, Git], <br />
           </div>
           <div className="in_depth">
-            <span className="blue_text">in depth : </span>
+            <span className="blue_text">Core focus:</span>
             <span>&#123;</span>
             <br />
-            <span className="blue_text">Experienced in :</span> [ Tensorflow,
-            Scikit learn, cloud computing, Machine Learning, computer vision ],
+            <span className="blue_text">Experienced in:</span> [Test planning, test case design, defect management, release validation, CI/CD],
             <br />
-            <span className="blue_text"> Passionate about : </span>[
-            DataScience, digital markiting, bloger creator ],
+            <span className="blue_text">AI-assisted workflows:</span> [GitHub Copilot, GitHub Copilot Chat/Agent, Atlassian Rovo],
             <br />
-            <span className="blue_text">more : </span> [Algorithmic and
-            pragmatic thinking , +2 years of experience as a front-end web
-            developer , Motivated, dedicated , creative ],
+            <span className="blue_text">Methodologies:</span> [Agile, Scrum, CI/CD],
             <br />
             <span>&#125;</span>, <br />
-            <span className="blue_text">joke : </span> "What did baby cat say to
-            her mother? nothing, they can't speak",
+            <span className="blue_text">Languages:</span> "Arabic (Native), English (Advanced)",
           </div>
           <br /> <span>&#125;</span>;
         </p>
