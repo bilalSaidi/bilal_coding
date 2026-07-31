@@ -27,12 +27,13 @@ const AboutMe = () => {
           <a
             href="https://www.linkedin.com/in/bilal-saidi-19a31a177/"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="fab fa-linkedin"></i>
           </a>
         </div>
         <div className="social_link">
-          <a href="https://github.com/bilalSaidi" target="_blank">
+          <a href="https://github.com/bilalSaidi" target="_blank" rel="noreferrer">
             <i className="fab fa-github-square"></i>
           </a>
         </div>
@@ -40,6 +41,7 @@ const AboutMe = () => {
           <a
             href="https://www.facebook.com/bilal.saidi.12914216"
             target="_blank"
+            rel="noreferrer"
           >
             <i className="fab fa-facebook-square"></i>
           </a>

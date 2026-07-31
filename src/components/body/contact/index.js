@@ -12,12 +12,13 @@ const Contact = () => {
               <a
                 href="https://www.linkedin.com/in/bilal-saidi-19a31a177/"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i class="fab fa-linkedin"></i>
               </a>
             </div>
             <div className="social_link">
-              <a href="https://github.com/bilalSaidi" target="_blank">
+              <a href="https://github.com/bilalSaidi" target="_blank" rel="noreferrer">
                 <i class="fab fa-github-square"></i>
               </a>
             </div>
@@ -25,6 +26,7 @@ const Contact = () => {
               <a
                 href="https://www.facebook.com/bilal.saidi.12914216"
                 target="_blank"
+                rel="noreferrer"
               >
                 <i class="fab fa-facebook-square"></i>
               </a>
@@ -35,6 +37,7 @@ const Contact = () => {
           <a
             href="https://drive.google.com/file/d/1FCmS2xDNNXg-eEfAoxWAp6PjKsx7hvmA/view?usp=sharing"
             target="_blank"
+            rel="noreferrer"
           >
             <i class="fas fa-cloud-download-alt"></i> Download Cv
           </a>

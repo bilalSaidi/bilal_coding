@@ -14,12 +14,12 @@ function SingleProject({
         <div className="project_title">{header}</div>
         <div className="project_demo_code">
           {demo ? (
-            <a href={demo} target="_blank">
+            <a href={demo} target="_blank" rel="noreferrer">
               <i class="fab fa-chrome"></i> demo
             </a>
           ) : null}
 
-          <a href={github} target="_blank">
+          <a href={github} target="_blank" rel="noreferrer">
             <i class="fab fa-github-square"></i>github
           </a>
         </div>
