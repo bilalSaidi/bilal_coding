@@ -35,7 +35,7 @@ const Contact = () => {
         </div>
         <div className="contact_resume">
           <a
-            href="https://drive.google.com/file/d/1FCmS2xDNNXg-eEfAoxWAp6PjKsx7hvmA/view?usp=sharing"
+            href="https://drive.google.com/file/d/1i2BE28a19PNwzDWee8w6dLPg4hYknEFr/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
