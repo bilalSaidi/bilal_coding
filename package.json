@@ -17,6 +17,9 @@
     "test": "node --openssl-legacy-provider node_modules/react-scripts/scripts/test.js",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "eslintConfig": {
     "extends": [
       "react-app",
