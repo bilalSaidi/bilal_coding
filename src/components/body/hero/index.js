@@ -6,13 +6,12 @@ const AboutMe = () => {
       <div className="hero_top">
         <div className="about_me">
           <p className="about_me_summary">
-            hello there 👋, i am <br />{" "}
+            Hello there 👋, I’m <br />{" "}
             <span className="personal_name">Bilal Saidi</span> <br /> I’m a
-            <span> Software Quality Assurance Engineer </span> with over
-            <span> 4 years of experience </span> delivering high-quality web
+            <span> Software Quality Assurance Engineer </span> delivering high-quality software
             applications through manual and automated testing. I focus on
             <span> test strategy </span>, <span> automation </span>, and
-            <span> release quality </span> across web platforms.
+            <span> release quality </span> across various platforms.
           </p>
         </div>
         <div className="personal_photo">
